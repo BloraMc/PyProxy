@@ -1,4 +1,5 @@
-# PyProxy – Lightweight Python Self-Hosted Messaging App
+# PyProxy
+## Lightweight Python Self-Hosted Messaging App
 
 **PyProxy** is a simple, lightweight messaging platform written in Python.  
 It’s designed to be easy to run — no accounts, no databases, just messaging via unique 6-digit IDs.
