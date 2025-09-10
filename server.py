@@ -27,7 +27,7 @@ import string
 import datetime
 
 HOST = '0.0.0.0' # Do not modify that / Ne modifier pas çela
-PORT = 12345 # Here add the port of you're server / Ici ajoutez le port de votre serveur
+PORT = 8000 # Here add the port of you're server / Ici ajoutez le port de votre serveur
 
 clients = {}
 ids = {}
@@ -97,3 +97,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
