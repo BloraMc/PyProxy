@@ -26,8 +26,8 @@ import tkinter as tk
 from tkinter import scrolledtext, messagebox
 from datetime import datetime
 
-SERVER_HOST = 'exemple.lystech.org' # Replace with your server's IP / Remplacez par l'IP de votre serveur
-SERVER_PORT = 12345 # Replace with your server's port / Remplacez par le port de votre serveur
+SERVER_HOST = 'api.lystech.org' # Replace with your server's IP / Remplacez par l'IP de votre serveur
+SERVER_PORT = 8000 # Replace with your server's port / Remplacez par le port de votre serveur
 
 class PyProxyClientApp:
     def __init__(self, master):
@@ -143,3 +143,4 @@ if __name__ == '__main__':
     app = PyProxyClientApp(root)
 
     root.mainloop()
+
