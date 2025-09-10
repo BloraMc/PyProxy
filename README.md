@@ -42,6 +42,7 @@ It’s designed to be easy to run — no accounts, no databases, just messaging 
 ## Test Server
 
 SERVER_HOST = 'api.lystech.org'
+
 SERVER_PORT = 8000
 
 _Created by BloraMc in France_
